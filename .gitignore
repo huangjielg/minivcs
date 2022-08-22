@@ -1,0 +1,10 @@
+*.log
+opt
+csrc 
+simv*
+ucli.key
+novas.*
+*.fsdb
+Verdi.ses*
+verdiLog
+*.txt
